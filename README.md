@@ -1,4 +1,4 @@
-{
+s{
     "ref": "refs/heads/master",
     "before": "3d1e4667967aeb53026db4d0d50cca23a60a9766",
     "after": "959e578d109dd12cd5fae5e1dc4a7cfcd90a99bb",
